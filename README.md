@@ -1,4 +1,4 @@
-![ imagem ](./assets/profile.readme.png)
+![ imagem ](./profile.readme.png)
 
 # 🚀 DEV. JHONSON MARLON 
 
