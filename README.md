@@ -1,4 +1,4 @@
-![ imagem ](./profile.readme.png)
+![ imagem ](./profile.readme_ofcmenor.png)
 
 # 🚀 DEV. JHONSON MARLON 
 
