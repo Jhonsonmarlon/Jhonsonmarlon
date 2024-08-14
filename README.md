@@ -10,6 +10,8 @@ Seja Bem-vindo(a). Este é o meu profile!
 O objetivo deste perfil é trazer através dos meus projetos, minhas habilidades em programação.
 Esteja sempre confortável a enviar dúvidas, sugestões e críticas !
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="89ce9481-2245-4b9a-b178-a1b2784baa5a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Aproveite e divirta-se !!
 
 ---
