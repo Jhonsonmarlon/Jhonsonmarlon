@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://jhonsondev.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Sistemas+internos+que+poupam+horas+de+trabalho;Sites+e+apps+que+p%C3%B5em+neg%C3%B3cios+no+digital;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Django+%E2%80%A2+Flutter" alt="Typing SVG" />
+    <img src="assets/typing.svg" alt="Sistemas internos • Sites e apps • React, Next.js, Node, Django, Flutter" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 Sou **Software Engineer** em Portugal, a construir software que resolve problemas reais — do sistema interno que poupa horas a uma equipa ao site que põe um pequeno negócio no digital.
 
 - 🏢 **Software Engineer** — desenvolvo sistemas internos à medida e automação de processos para empresas.
-- 🚀 **Fundador da [Mondego Code](https://mondegocode.com)** — agência em Coimbra: sites, lojas online, apps e sistemas à medida.
+- <img src="assets/mondego-code.png" height="20" align="top" alt="Mondego Code" /> **Fundador da [Mondego Code](https://mondegocode.com)** — agência em Coimbra: sites, lojas online, apps e sistemas à medida.
 - 🌐 Portfólio e projetos em **[jhonsondev.com](https://jhonsondev.com)**
 - 💬 Fala comigo sobre: React, Django, automação de processos, WordPress à medida, produtos SaaS.
 
@@ -42,7 +42,7 @@ Sou **Software Engineer** em Portugal, a construir software que resolve problema
 
 ## 📌 Sites em destaque
 
-Alguns dos sites que desenvolvi para clientes através da **[Mondego Code](https://mondegocode.com)**:
+Alguns dos sites que desenvolvi para clientes através da <img src="assets/mondego-code.png" height="20" align="top" alt="Mondego Code" /> **[Mondego Code](https://mondegocode.com)**:
 
 <p align="center">
 <table>
@@ -69,6 +69,10 @@ Alguns dos sites que desenvolvi para clientes através da **[Mondego Code](https
       <a href="https://mondegocode.com/#projetos"><img src="https://solwqlecrdyyqhhmibpo.supabase.co/storage/v1/object/public/site-images/1783425112539-caduceus.png" width="260" alt="CADUCEUS — Seg. Médica" /></a><br/>
       <b>CADUCEUS — Seg. Médica</b><br/><sub>E-commerce</sub>
     </td>
+    <td align="center" width="33%">
+      <a href="https://mondegocode.com/#projetos"><img src="https://solwqlecrdyyqhhmibpo.supabase.co/storage/v1/object/public/site-images/1783696352742-ChatGPT_Image_10_de_jul._de_2026__16_11_08.webp" width="260" alt="Advocacia Manuela Cruz" /></a><br/>
+      <b>Advocacia Manuela Cruz</b><br/><sub>Landing page</sub>
+    </td>
   </tr>
 </table>
 </p>
@@ -80,7 +84,7 @@ Alguns dos sites que desenvolvi para clientes através da **[Mondego Code](https
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Jhonsonmarlon" alt="Contribuições no GitHub" width="95%" />
+  <img src="assets/contributions.svg" alt="Contribuições no GitHub" width="95%" />
 </p>
 
 <p align="center">
