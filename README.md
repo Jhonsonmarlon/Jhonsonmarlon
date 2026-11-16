@@ -56,8 +56,7 @@ Sou **Software Engineer** em Portugal, a construir software que resolve problema
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhonsonmarlon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonsonmarlon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+  <img src="https://streak-stats.demolab.com?user=Jhonsonmarlon&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&locale=pt_PT" />
 </p>
 
 <p align="center">
