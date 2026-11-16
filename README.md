@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://jhonsondev.com">
-    <img src="assets/typing.svg" alt="Sistemas internos • Sites e apps • React, Next.js, Node, Django, Flutter" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=680&lines=Sistemas+internos+que+poupam+horas+de+trabalho;Sites+e+apps+que+p%C3%B5em+neg%C3%B3cios+no+digital;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Django+%E2%80%A2+Flutter" alt="Typing SVG" />
   </a>
 </p>
 
